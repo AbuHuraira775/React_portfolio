@@ -1,2 +1,3 @@
 # React_portfolio
-JS and React
+JS and React.js
+
