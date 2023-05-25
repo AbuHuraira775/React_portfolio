@@ -20,7 +20,7 @@ export default function AddressInfo() {
 
                     <div className='address_box box'>
                         <div className='icon'>
-                        <a href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox' target='_blank'><i className="fa-solid fa-envelope"></i></a>
+                        <a href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJqVNfGJlNbWJVmFtdLLqhMhNBrTdqwqvgHbDjGNcKdJssxwPMWhtvHpRwQHfblJBkJmxfg' target='_blank'><i className="fa-solid fa-envelope"></i></a>
                         
                         </div>
                         <div className='detail'>
@@ -32,7 +32,7 @@ export default function AddressInfo() {
 
                     <div className='address_box box'>
                         <div className='icon'>
-                        <a href=''><i className="fa-solid fa-phone" target='_blank'></i></a>
+                        <a href='https://wa.me/+923132680481' target="_blank"><i className="fa-solid fa-phone" target='_blank'></i></a>
                         
                         </div>
                         <div className='detail'>

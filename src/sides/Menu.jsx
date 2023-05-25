@@ -162,7 +162,7 @@ export default function Menu() {
             <i className="fa-regular fa-user home_icons" title="profile" onClick={profile}></i>
             <i className="fa-solid fa-graduation-cap home_icons" title="resume" onClick={resume}></i>
             <i className="fa-regular fa-file home_icons" title="portfolio" onClick={portfolio}></i>
-            <i className="fa-solid fa-newspaper home_icons" title="blogs" onClick={blogs}></i>
+            {/* <i className="fa-solid fa-newspaper home_icons" title="blogs" onClick={blogs}></i> */}
             <i className="fa-regular fa-envelope home_icons" title="contact" onClick={contact}></i>
         </div>
 
@@ -173,9 +173,9 @@ export default function Menu() {
 
           <div className='link'>
             <a href='https://github.com/AbuHuraira775/' target='_blank'><i className="fa-brands fa-github" ></i></a>
-            <a href='abuhuraira775@gmail.com' target='_blank'><i className="fa-regular fa-envelope"></i></a>
+            <a href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJqVNfGJlNbWJVmFtdLLqhMhNBrTdqwqvgHbDjGNcKdJssxwPMWhtvHpRwQHfblJBkJmxfg' target='_blank'><i className="fa-regular fa-envelope"></i></a>
             <a href='https://www.linkedin.com/in/abu-huraira-a9828922a/' target='_blank'><i className="fa-brands fa-linkedin"></i></a>
-            <a href='' target='_blank'><i className="fa-brands fa-whatsapp"></i></a>
+            <a href='https://wa.me/+923132680481' target='_blank'><i className="fa-brands fa-whatsapp"></i></a>
           </div>
        
         </div>

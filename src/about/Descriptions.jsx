@@ -21,9 +21,9 @@ export default function Descriptions() {
         
       <div className='all_links'>
         <button className='btn'> <a href='https://github.com/AbuHuraira775/' target='_blank'><i className="fa-brands fa-github"></i></a></button>
-        <button className='btn'> <a href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJTLpGgVDpCgsQtHQCJdnmLNsVbVZfLJZjMvHPNPjvxjNDKmWlpkKzPNljFCfbFRBtMvwhg' target='_blank'><i className="fa-regular fa-envelope"></i></a></button>
+        <button className='btn'> <a href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJqVNfGJlNbWJVmFtdLLqhMhNBrTdqwqvgHbDjGNcKdJssxwPMWhtvHpRwQHfblJBkJmxfg' target='_blank'><i className="fa-regular fa-envelope"></i></a></button>
         <button className='btn'> <a href='https://www.linkedin.com/in/abu-huraira-a9828922a/' target='_blank'><i className="fa-brands fa-linkedin"></i></a></button>
-        <button className='btn'> <a href='' target='_blank'><i className="fa-brands fa-whatsapp"></i></a></button>
+        <button className='btn'> <a href='https://wa.me/+923132680481' target='_blank'><i className="fa-brands fa-whatsapp"></i></a></button>
       </div>
        
     </div>
