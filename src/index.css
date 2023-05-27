@@ -55,7 +55,8 @@ code {
   width: 4.5vw;
   display: flex;
   flex-direction: column;
-  background-color: var(--nav-bg);
+/*   background-color: var(--nav-bg); */
+  background-color: red;
   box-shadow: var(--shadow); 
   z-index: 1;
 }
